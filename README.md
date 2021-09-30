@@ -1,3 +1,15 @@
-# GraphQL Job Board
+## GraphQL Job Board with client and server
 
-Sample application used in the GraphQL by Example course.
+[!image](login.png)
+
+[!image](jobboard.png)
+
+### client and server
+
+`npm install`
+
+`npm start`
+
+### data storage
+
+data storage of *collections* is in json files
